@@ -1,0 +1,1 @@
+segmenter <input MPEG-TS file> <segment duration in seconds> <output MPEG-TS file prefix> <output m3u8 index file> <http prefix>
